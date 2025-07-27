@@ -19,6 +19,6 @@ Identifying unusual consumption patterns helps reduce waste, optimize usage, and
 - Cleaned, visualized, and fed into an LSTM model
 - Anomalies detected using threshold-based dynamic scoring
 
-## 📌 Results
+## Results
 The LSTM model identified unusual energy behaviors that aligned with potential faults in appliances or circuits.
 
